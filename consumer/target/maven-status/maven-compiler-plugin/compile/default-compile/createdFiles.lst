@@ -1,0 +1,5 @@
+com\jasmine\consumer\ConsumerService.class
+com\jasmine\consumer\ConsumerApplication.class
+com\jasmine\consumer\EmailService.class
+com\jasmine\consumer\Order.class
+com\jasmine\consumer\RabbitMQConfig.class
