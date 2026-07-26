@@ -1,0 +1,5 @@
+com\jasmine\produk\model\produk.class
+com\jasmine\produk\service\ProdukService.class
+com\jasmine\produk\controler\ProdukControler.class
+com\jasmine\produk\repository\ProdukRepository.class
+com\jasmine\produk\ProdukApplication.class
