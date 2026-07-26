@@ -1,0 +1,6 @@
+jasmineorder\Order\model\Order.class
+jasmineorder\Order\controller\OrderController.class
+jasmineorder\Order\OrderApplication.class
+jasmineorder\Order\repository\OrderRepository.class
+jasmineorder\Order\config\RabbitMQConfig.class
+jasmineorder\Order\service\OrderService.class
